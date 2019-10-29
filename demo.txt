@@ -1,0 +1,49 @@
+{
+"categorylv1": "Family & Relationships",
+"categorylv2": [
+[
+"gs_family_marriage",
+1531.723468244076
+],
+[
+"gs_family_children",
+1213.392567066742
+],
+[
+"gs_health_exercise",
+1106.2705508850909
+],
+[
+"gs_entertain_music",
+1058.4383951382977
+],
+[
+"gs_education_university",
+967.1926196424026
+]
+],
+"keywords": {
+"30": 0.157,
+"chủ_nhiệm": 0.157,
+"cô_giáo": 0.157,
+"dạy": 0.157,
+"giáo_dục": 0.19,
+"giáo_viên": 0.123,
+"giúp": 0.123,
+"hạnh_phúc": 0.157,
+"học_sinh": 0.439,
+"kết_quả": 0.123,
+"nghiêm_khắc": 0.123,
+"nguyễn_bỉnh_khiêm": 0.123,
+"niềm": 0.123,
+"phụ_huynh": 0.252,
+"quãng": 0.157,
+"sai": 0.123,
+"thầy": 0.157,
+"tim": 0.281,
+"trò": 0.123,
+"ốm": 0.123
+},
+"summarize": "Mọi người cũng tin rằng cách giáo dục nghiêm khắc, chuẩn mực có thể rèn giũa chúng tôi thành tài, trở thành người có ích cho xã hội. Ngay cả tôi, tôi cũng tin như vậy. Chính vì thế, tôi bước vào nghề với mục tiêu sẽ là một giáo viên nghiêm khắc, chăm chỉ để dạy học sinh thành trò xuất sắc. Sau khi tốt nghiệp tại Đại học Sư phạm Hà Nội, khoa Giáo dục tiểu học năm 2011, tôi xin vào làm tại trường Nguyễn Bỉnh Khiêm. Chỉ sau một năm rèn giũa và tích cực học hỏi, tôi được tin tưởng, phân công chủ nhiệm lớp 1.",
+"text": "Cô Bích Ngọc, 29 tuổi, chủ nhiệm lớp 1A1, chia sẻ quá trình thay đổi vì học sinh tại hội thảo \"Xây dựng trường học hạnh phúc vì sự phát triển của mỗi học sinh\" do Hệ thống giáo dục Nguyễn Bỉnh Khiêm - Cầu Giấy tổ chức sáng 29/10.  Trước đây, khi tôi còn đi học, một lớp học đáng tự hào là có nhiều học sinh đạt thành tích cao, cô giáo giỏi và nghiêm khắc, phụ huynh gửi con đến trường để yên tâm lao động. Mọi người cũng tin rằng cách giáo dục nghiêm khắc, chuẩn mực có thể rèn giũa chúng tôi thành tài, trở thành người có ích cho xã hội. Ngay cả tôi, tôi cũng tin như vậy. Chính vì thế, tôi bước vào nghề với mục tiêu sẽ là một giáo viên nghiêm khắc, chăm chỉ để dạy học sinh thành trò xuất sắc.  Sau khi tốt nghiệp tại Đại học Sư phạm Hà Nội, khoa Giáo dục tiểu học năm 2011, tôi xin vào làm tại trường Nguyễn Bỉnh Khiêm. Chỉ sau một năm rèn giũa và tích cực học hỏi, tôi được tin tưởng, phân công chủ nhiệm lớp 1. Tôi thì hồ hởi nhưng mọi sự khởi đầu đã không như tôi tưởng tượng. Hàng ngày tôi phải đối mặt với 30 học sinh, 30 cá tính. Dường như ngày nào tôi cũng bị \"xoay\" như chong chóng. Trẻ con quá bé bỏng, ngoài việc tập đọc, tập viết thì hay thưa gửi, kiện cáo từ việc nhỏ nhất, lúc thì \"bạn này lấy bút của con\", lúc thì \"cô ơi con muốn đi vệ sinh\", \"cô ơi bạn đánh con\"... Rồi tôi phải chuẩn bị đầy đủ hồ sơ sổ sách theo đúng quy định của một giáo viên.  Một tuần lễ, tôi chỉ ngủ trọn vẹn hai đêm là thứ bảy và chủ nhật, còn những đêm khác tôi phải thức để soạn bài, rồi chấm bài học sinh và rất nhiều công việc không tên khác. Mới một tháng nhận lớp mà trông tôi đã thay đổi, bơ phờ, mệt mỏi, đã vậy còn tác động từ phía phụ huynh học sinh. Phụ huynh dường như không có sự tin tưởng khi tôi hàng ngày đến lớp. Họ không nói thẳng với tôi điều đó mà thi thoảng lại hỏi theo kiểu \"Cô trẻ thế mà đã đứng lớp à\", hay \"Cô có phải con cháu của hiệu trưởng không\". Tôi ấm ức lắm, là do mình quá trẻ nên họ có quyền nghi hoặc mình vậy sao? Việc đó đã thành một áp lực vô hình khiến cho tôi càng muốn khẳng định bản thân mạnh mẽ. Tôi muốn chinh phục được phụ huynh. Tôi bắt đầu từ việc phải làm cho các học sinh trở thành trò ngoan, trò giỏi, có kết quả học tập cao. Tôi quả thực cũng đã đạt được kết quả như tôi mong đợi: học sinh tiến bộ về điểm số theo từng tuần, từng tháng. Từ đó tôi lại càng tin cách giáo dục của mình là đúng đắn. Tôi không hề biết, có một cơn bão đang ở đằng sau cái tưởng chừng là thành công đó. Phụ huynh lớp tôi đã không hề hài lòng như tôi tưởng. Điểm 9-10 con họ mang về nhà nhiều lên tỷ lệ thuận với sự căng thẳng. Tôi quên mất trẻ con cần được vui. Phụ huynh bức xúc, bắt đầu lên tiếng. Đỉnh điểm nhất là khi cả nhà một học sinh trong lớp, gồm cả ông, bà, bố mẹ kéo đến thẳng phòng thầy Nguyễn Văn Hòa (Chủ tịch Hội đồng quản trị, nhà sáng lập hệ thống giáo dục Nguyễn Bỉnh Khiêm) bày tỏ bất bình. Họ thực sự không muốn tôi làm việc với con cháu họ và với tất cả lớp theo cách như vậy nữa. Cô giáo Bích Ngọc. Ảnh: Dương Tâm Một chuỗi căng thẳng đó kết thúc bằng việc tôi nhận được quyết định dừng công tác chủ nhiệm lớp. Tôi suy sụp, vô cùng hờn tủi khi phải dừng nhiệm vụ giữa chừng. Tôi vẫn không tìm được lý do. \"Chẳng lẽ mình sai ở đâu\"? Tôi thấy mình rơi vào hố đen của sự thất bại. Tôi đã mất công việc, mất hy vọng và hơn hết là mất niềm tin vào chính mình. Chính thời điểm đó, cuộc nói chuyện với thầy Hòa giúp tôi tỉnh ngộ. Thầy nói với tôi rằng \"Đừng bận tâm về người khác nghĩ về con ra sao, hãy dành thời gian để suy nghĩ những điều con đã làm và tại sao con làm sai\". Câu nói ấy trước tiên giúp tôi bình tĩnh hơn trong việc chấp nhận có một quãng dừng rồi cũng từ quãng dừng đó, tôi đã nhận ra và lại nhen nhóm lên hy vọng sẽ làm được tốt hơn bằng khả năng thực sự của bản thân. Quãng thời gian nghỉ đó cùng với lúc tôi mang bầu, sinh con. Sau đó thầy Hòa lại cho tôi quay trở lại công việc với lời nhắn nhủ động viên cố gắng. Lần này, tôi được phân công chủ nhiệm lớp 2, rồi năm sau là lớp 1. Các năm sau nữa tôi vẫn gắn bó với học sinh bé bỏng lớp 1 đầu cấp. Lúc này, ngoài vị trí là giáo viên, tôi còn là người mẹ. Ở nhà tôi là mẹ của một con gái, còn khi lên lớp tôi là mẹ của 30 học sinh.  Khi tận tay chăm sóc và dạy dỗ con mình lớn lên từng ngày, tôi thấu hiểu những vất vả, trăn trở của phụ huynh trong quá trình nuôi dạy con. Và tôi cũng bừng tỉnh khi dạy dỗ bọn trẻ. Quan sát nhiều hơn đến gương mặt, nụ cười, niềm vui, nỗi buồn của chúng, tôi mới thấy hết được những điều chưa đúng của mình trước đây. Tôi từng vô tâm với thế giới tâm hồn trong trẻo, ngây thơ của chúng. Tôi đặt chúng vào gánh nặng áp lực một cách vô lý và không cần thiết.  Tôi đã thay đổi, kiên nhẫn, lắng nghe các chia sẻ, cảm xúc của các con, dễ dàng bỏ qua lỗi sai và dịu dàng hơn khi uốn nắn. Tôi nhìn vào mắt các con nhiều hơn, mỉm cười nhiều hơn. Tôi dành những cử chỉ âu yếm cho tất cả bọn trẻ. Tôi bình tĩnh chờ đợi trẻ thay đổi từng ngày chứ không đặt ra các dấu mốc theo tuần, theo tháng như trước nữa. Khi đến với các con bằng tình cảm của một người mẹ, tôi mới cảm nhận được hạnh phúc thực sự mỗi ngày của mình khi được làm cô giáo, làm mẹ trên lớp 30 học sinh. Hạt mầm yêu thương đã được gieo xuống và tôi nhận lại trái ngọt là những tình cảm chân thật, ngây thơ trong sáng của các con.  Tôi nhớ câu chuyện về cậu bé Tim (tên thường gọi ở nhà). Tim vào lớp 1 hoàn toàn là trang giấy trắng, quá lạ lẫm trước những con chữ, cách cầm bút, tôi liên tục bối rối trước các câu hỏi của con: \"Cô ơi sao con học chữ khó thế? Sao phải học nhiều chữ thế\". Quãng thời gian lo lắng của gia đình con cũng không ngắn, thậm chí mẹ con quyết định nghỉ việc một thời gian để ở nhà cùng dạy con học. Tôi kiên trì dành thêm thời gian kèm cặp con cuối giờ học. Mỗi khi có cơ hội, tôi dành cho con những lời động viên. Tôi thường nói với Tim \"Mỗi bạn nhỏ đều mang trong mình những khả năng đặc biệt, mỗi bạn sẽ tỏa sáng theo cách riêng. Con là cậu bé lương thiện, tốt bụng nhất mà cô từng gặp\". Tim thích nghe điều đó lắm, con tự tin hơn và thấy mình đặc biệt hơn khi nghe cô nói vậy. Lần tôi mới bị ốm dậy đến lớp, Tim là cậu bé đầu tiên nhận thấy gương mặt nhợt nhạt, xanh xao của tôi, con liên tục hỏi \"Cô mệt à? Cô ốm à? Sao sáng nay cô không đến lớp\" rồi buổi học hôm đó, tôi nhận thấy con luôn chăm chú quan sát cô, con ngoan hơn mọi ngày và hợp tác. Giờ quà chiều, các bạn ăn xong chạy khắp nơi, nhưng Tim vẫn ở lại lớp quanh quẩn bên tôi, thi thoảng lại thủ thỉ \"Cô có đói không? Cô có uống sữa không? Cô uống sữa của con này\". Câu nói làm tôi thấy thật ấm áp. Con hẹn tôi đợi một lát rồi chạy thoắt đi, vài phút sau ùa vào lớp với quả quýt và rối rít: \"Cô ăn quýt đi. Mẹ con bảo ốm phải ăn hoa quả mới khỏi được\". Thì ra Tim chạy xuống bếp ăn xin các cô chú đồ ăn cho cô. Trái tim tôi muốn tan chảy khi con đề nghị \"Cho con ôm cô một cái nhé\". Biết bao nhiêu mệt nhọc tan biến trong phút chốc. Tôi xúc động đến rơi nước mắt, hạnh phúc vô bờ. Tôi đã thay đổi để học sinh của mình được hạnh phúc hơn. Giờ đây, với kinh nghiệm tích luỹ sau nhiều năm đi dạy, tôi được nhà trường giao làm khối trưởng khối 1. Sự có gắng vươn lên đã có kết quả và quan trọng hơn là niềm đam mê, tinh thần trách nhiệm đã giúp cô giáo trẻ như tôi gắn bó với sự nghiệp \"trồng người\". Tôi có thêm không chỉ một học sinh yêu mình như Tim mà hầu như được đón nhận điều đó từ tất cả học sinh từng dạy trong những năm qua. Dương Tâm (ghi)"
+}
